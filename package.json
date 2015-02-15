@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/finnp/local-lang-names/issues"
   },
-  "homepage": "https://github.com/finnp/local-lang-names"
+  "homepage": "https://github.com/finnp/local-lang-names",
+  "dependencies": {
+    "countries-list": "^1.0.3",
+    "languages": "^0.1.3"
+  }
 }
